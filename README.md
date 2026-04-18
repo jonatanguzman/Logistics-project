@@ -56,3 +56,8 @@ El dashboard permite analizar el rendimiento logístico mediante filtros interac
 
 ## 🚀 Conclusión
 El análisis permitió identificar factores que afectan el rendimiento logístico, como el impacto del clima y el desempeño de operadores, facilitando la toma de decisiones para optimizar la operación.
+
+---
+
+## 👨‍💻 Sobre el proyecto
+Este proyecto fue desarrollado como parte de mi formación en análisis de datos, aplicando herramientas como Python y Power BI sobre un caso de negocio logístico.
