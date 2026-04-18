@@ -36,9 +36,7 @@ El dashboard permite analizar el rendimiento logístico mediante filtros interac
 - Tipo de vehículo
 - Condiciones climáticas
 
-📁 El archivo `.pbix` se encuentra en la carpeta `/powerbi`
-
-![Dashboard](img/Img1.png)
+![Dashboard](Img/Img1.png)
 
 ---
 
