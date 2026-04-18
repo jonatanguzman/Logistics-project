@@ -37,8 +37,8 @@ El dashboard permite analizar el rendimiento logístico mediante filtros interac
 - Condiciones climáticas
 
 ![Dashboard](Img/Img1.png)
-
 ---
+![Dashboard](Img/Img2.png)
 
 ## 📈 KPIs principales
 - % entregas a tiempo
