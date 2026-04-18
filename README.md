@@ -38,7 +38,7 @@ El dashboard permite analizar el rendimiento logístico mediante filtros interac
 
 📁 El archivo `.pbix` se encuentra en la carpeta `/powerbi`
 
-![Dashboard](img/img1.png)
+![Dashboard](img/Img1.png)
 
 ---
 
